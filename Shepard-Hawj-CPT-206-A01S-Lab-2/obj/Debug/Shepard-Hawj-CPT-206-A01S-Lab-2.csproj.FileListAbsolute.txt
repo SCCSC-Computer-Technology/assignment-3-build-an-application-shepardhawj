@@ -1,0 +1,13 @@
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\bin\Debug\StateInfoDB.mdf
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\bin\Debug\StateInfoDB_log.ldf
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\bin\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.exe.config
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\bin\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.exe
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\bin\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.pdb
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.csproj.AssemblyReference.cache
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard_Hawj_CPT_206_A01S_Lab_2.Properties.Resources.resources
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.csproj.GenerateResource.cache
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.csproj.CoreCompileInputs.cache
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.exe
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard-Hawj-CPT-206-A01S-Lab-2.pdb
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard_Hawj_CPT_206_A01S_Lab_2.WelcomeForm.resources
+C:\Users\sheph\source\repos\Shepard-Hawj-CPT-206-A01S-Lab-2\obj\Debug\Shepard_Hawj_CPT_206_A01S_Lab_2.MainForm.resources
