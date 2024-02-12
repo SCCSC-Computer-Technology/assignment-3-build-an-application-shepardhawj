@@ -1,0 +1,6 @@
+The program did work however i noticed that the data wasn't stored in a database, excel or any 
+software form. While the data is accurate and the program does work and meets the requirments from one of
+the classes i did hear we were supposed to use some form of a database and implement that into our program. 
+
+With that being told, the program did still work as intended and i enjoyed interacting with it and looking through
+the information.
