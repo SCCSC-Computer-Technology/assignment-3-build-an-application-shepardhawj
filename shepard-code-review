@@ -1,0 +1,3 @@
+To enhance readability I would comment more of the code so that each parts purpose is understood at a glance. Otherwise the code is organized and easy to understand.
+The application executed without any compiler issues. The filter for computer jobs didn't execute so I might have just deleted the controls from the form. I think you should have deleted the empty methods in your welcome form code so that they didn't take up space. 
+One of the differences in our programs is that you allowed for editing on your state information form. I like that it is available here so it is clear what you are editing and where.
