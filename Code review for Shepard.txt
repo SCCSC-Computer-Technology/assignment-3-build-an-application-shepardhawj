@@ -1,0 +1,3 @@
+Code Review for Shepard :)
+
+I like how nice the code looks and how you made the edit button work. It's cool that the text boxes only become active when you press edit. I want to do something like that in my code in the future. I also think it would be easier to understand if you added more comments. I understand one can easily forget to comment on their code, unfortunately, I do it a lot myself. But it's a very helpful habit for both the user and the programmer to understand what is going on in the code. Also, I got a bit lost using the filter function. It would be better if there was a little tip to help users understand what to do. I learned a few things from your code as well! Great Job!!
